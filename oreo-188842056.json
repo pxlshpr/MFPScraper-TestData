@@ -1,0 +1,108 @@
+{
+  "energy" : 160,
+  "servingAmount" : 3.0001875117194823,
+  "amount" : 1,
+  "brand" : "Oreo Nabisco",
+  "amountUnit" : {
+    "serving" : {
+
+    }
+  },
+  "carbohydrate" : 25,
+  "sourceUrl" : "https://myfitnesspal.com/food/calories/oreo-188842056",
+  "protein" : 1,
+  "servingUnit" : {
+    "size" : {
+      "_0" : {
+        "quantity" : 1,
+        "amount" : 0.33331250000000001,
+        "amountUnit" : {
+          "serving" : {
+
+          }
+        },
+        "name" : "Cookies"
+      }
+    }
+  },
+  "sizes" : [
+    {
+      "quantity" : 1,
+      "amount" : 0.33331250000000001,
+      "amountUnit" : {
+        "serving" : {
+
+        }
+      },
+      "name" : "Cookies"
+    },
+    {
+      "quantity" : 1,
+      "amount" : 9.0005625351584477,
+      "amountUnit" : {
+        "size" : {
+          "_0" : {
+            "quantity" : 1,
+            "amount" : 0.33331250000000001,
+            "amountUnit" : {
+              "serving" : {
+
+              }
+            },
+            "name" : "Cookies"
+          }
+        }
+      },
+      "name" : "Container"
+    }
+  ],
+  "nutrients" : [
+    {
+      "type" : 50,
+      "amount" : 1,
+      "unit" : 1
+    },
+    {
+      "type" : 100,
+      "amount" : 14,
+      "unit" : 1
+    },
+    {
+      "type" : 1,
+      "amount" : 2,
+      "unit" : 1
+    },
+    {
+      "type" : 3,
+      "amount" : 1,
+      "unit" : 1
+    },
+    {
+      "type" : 2,
+      "amount" : 3,
+      "unit" : 1
+    },
+    {
+      "type" : 162,
+      "amount" : 140,
+      "unit" : 2
+    },
+    {
+      "type" : 160,
+      "amount" : 55,
+      "unit" : 2
+    },
+    {
+      "type" : 150,
+      "amount" : 26,
+      "unit" : 2
+    },
+    {
+      "type" : 155,
+      "amount" : 1.0800000000000001,
+      "unit" : 2
+    }
+  ],
+  "name" : "Oreo",
+  "fat" : 7
+}

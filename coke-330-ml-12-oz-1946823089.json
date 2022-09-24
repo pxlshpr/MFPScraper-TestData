@@ -1,0 +1,54 @@
+{
+  "energy" : 140,
+  "servingAmount" : 1,
+  "amount" : 1,
+  "brand" : "Coke",
+  "amountUnit" : {
+    "serving" : {
+
+    }
+  },
+  "carbohydrate" : 35,
+  "sourceUrl" : "https://myfitnesspal.com/food/calories/coke-330-ml-12-oz-1946823089",
+  "protein" : 0,
+  "servingUnit" : {
+    "size" : {
+      "_0" : {
+        "quantity" : 1,
+        "amount" : 1,
+        "amountUnit" : {
+          "serving" : {
+
+          }
+        },
+        "name" : "Can"
+      }
+    }
+  },
+  "sizes" : [
+    {
+      "quantity" : 1,
+      "amount" : 1,
+      "amountUnit" : {
+        "serving" : {
+
+        }
+      },
+      "name" : "Can"
+    }
+  ],
+  "nutrients" : [
+    {
+      "type" : 100,
+      "amount" : 35,
+      "unit" : 1
+    },
+    {
+      "type" : 162,
+      "amount" : 45,
+      "unit" : 2
+    }
+  ],
+  "name" : "Coke (330ml 12oz)",
+  "fat" : 0
+}
