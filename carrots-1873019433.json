@@ -1,0 +1,182 @@
+{
+  "energy" : 26.239999999999998,
+  "servingAmount" : 1,
+  "amount" : 1,
+  "sourceUrl" : "https://myfitnesspal.com/food/calories/carrots-1873019433",
+  "amountUnit" : {
+    "serving" : {
+
+    }
+  },
+  "carbohydrate" : 6.1299999999999999,
+  "protein" : 0.59999999999999998,
+  "servingUnit" : {
+    "size" : {
+      "_0" : {
+        "quantity" : 1,
+        "prefixVolumeUnit" : 4,
+        "amount" : 64,
+        "amountUnit" : {
+          "weight" : {
+            "_0" : 1
+          }
+        },
+        "name" : "Chopped"
+      }
+    }
+  },
+  "sizes" : [
+    {
+      "quantity" : 1,
+      "prefixVolumeUnit" : 4,
+      "amount" : 64,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 1
+        }
+      },
+      "name" : "Chopped"
+    },
+    {
+      "quantity" : 1,
+      "amount" : 72,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 1
+        }
+      },
+      "name" : "Large"
+    },
+    {
+      "quantity" : 1,
+      "amount" : 61.000000000000007,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 1
+        }
+      },
+      "name" : "Medium"
+    },
+    {
+      "quantity" : 1,
+      "amount" : 50,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 1
+        }
+      },
+      "name" : "Small"
+    },
+    {
+      "quantity" : 1,
+      "prefixVolumeUnit" : 4,
+      "amount" : 122.00000000000001,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 1
+        }
+      },
+      "name" : "Strips or slices"
+    },
+    {
+      "quantity" : 1,
+      "prefixVolumeUnit" : 4,
+      "amount" : 110.00000000000001,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 1
+        }
+      },
+      "name" : "Grated"
+    },
+    {
+      "quantity" : 1,
+      "amount" : 3,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 1
+        }
+      },
+      "name" : "Slice"
+    },
+    {
+      "quantity" : 1,
+      "amount" : 7.0000000000000009,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 1
+        }
+      },
+      "name" : "Strip large"
+    },
+    {
+      "quantity" : 1,
+      "amount" : 4,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 1
+        }
+      },
+      "name" : "Strip medium"
+    }
+  ],
+  "nutrients" : [
+    {
+      "type" : 50,
+      "amount" : 1.79,
+      "unit" : 1
+    },
+    {
+      "type" : 100,
+      "amount" : 3.0299999999999998,
+      "unit" : 1
+    },
+    {
+      "type" : 1,
+      "amount" : 0.02,
+      "unit" : 1
+    },
+    {
+      "type" : 3,
+      "amount" : 0.070000000000000007,
+      "unit" : 1
+    },
+    {
+      "type" : 2,
+      "amount" : 0.01,
+      "unit" : 1
+    },
+    {
+      "type" : 162,
+      "amount" : 44.159999999999997,
+      "unit" : 2
+    },
+    {
+      "type" : 160,
+      "amount" : 204.80000000000001,
+      "unit" : 2
+    },
+    {
+      "type" : 200,
+      "amount" : 6415.1099999999997,
+      "unit" : 52
+    },
+    {
+      "type" : 203,
+      "amount" : 5.6610000000000005,
+      "unit" : 2
+    },
+    {
+      "type" : 150,
+      "amount" : 27.43,
+      "unit" : 2
+    },
+    {
+      "type" : 155,
+      "amount" : 0.19260000000000002,
+      "unit" : 2
+    }
+  ],
+  "name" : "Carrots",
+  "fat" : 0.14999999999999999
+}

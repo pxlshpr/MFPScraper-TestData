@@ -1,0 +1,95 @@
+{
+  "energy" : 42.18,
+  "servingAmount" : 1,
+  "amount" : 1,
+  "sourceUrl" : "https://myfitnesspal.com/food/calories/blueberries-2068638922",
+  "amountUnit" : {
+    "serving" : {
+
+    }
+  },
+  "carbohydrate" : 10.720000000000001,
+  "protein" : 0.55000000000000004,
+  "servingUnit" : {
+    "volume" : {
+      "_0" : 4
+    }
+  },
+  "sizes" : [
+    {
+      "quantity" : 1,
+      "prefixVolumeUnit" : 4,
+      "amount" : 1,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 3
+        }
+      },
+      "name" : ""
+    },
+    {
+      "quantity" : 1,
+      "amount" : 1,
+      "amountUnit" : {
+        "weight" : {
+          "_0" : 3
+        }
+      },
+      "name" : "Berries"
+    }
+  ],
+  "nutrients" : [
+    {
+      "type" : 50,
+      "amount" : 1.78,
+      "unit" : 1
+    },
+    {
+      "type" : 100,
+      "amount" : 7.3700000000000001,
+      "unit" : 1
+    },
+    {
+      "type" : 1,
+      "amount" : 0.02,
+      "unit" : 1
+    },
+    {
+      "type" : 3,
+      "amount" : 0.11,
+      "unit" : 1
+    },
+    {
+      "type" : 2,
+      "amount" : 0.029999999999999999,
+      "unit" : 1
+    },
+    {
+      "type" : 162,
+      "amount" : 0.73999999999999999,
+      "unit" : 2
+    },
+    {
+      "type" : 160,
+      "amount" : 56.979999999999997,
+      "unit" : 2
+    },
+    {
+      "type" : 210,
+      "amount" : 10.764000000000001,
+      "unit" : 2
+    },
+    {
+      "type" : 150,
+      "amount" : 5.7199999999999998,
+      "unit" : 2
+    },
+    {
+      "type" : 155,
+      "amount" : 0.20699999999999999,
+      "unit" : 2
+    }
+  ],
+  "name" : "Blueberries",
+  "fat" : 0.23999999999999999
+}
